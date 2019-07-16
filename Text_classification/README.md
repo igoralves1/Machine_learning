@@ -59,20 +59,44 @@ print(Sliced_List)
 
 
 
+# Python, compute list difference
+- https://stackoverflow.com/questions/6486450/python-compute-list-difference
+
+# Natural Language Toolkit
+- http://www.nltk.org/
+# nltk.tokenize package
+- http://www.nltk.org/api/nltk.tokenize.html
 
 
+# Breaking Up A String Into Columns Using Regex In pandas
+- https://chrisalbon.com/python/data_wrangling/pandas_regex_to_create_columns/
+
+# How to get rid of punctuation using NLTK tokenizer?
+- https://stackoverflow.com/questions/15547409/how-to-get-rid-of-punctuation-using-nltk-tokenizer
 
 
+# How to get rid of punctuation using NLTK tokenizer?
+- https://stackoverflow.com/questions/15547409/how-to-get-rid-of-punctuation-using-nltk-tokenizer
+# How to split a string into a list?
+- https://stackoverflow.com/questions/743806/how-to-split-a-string-into-a-list
+
+# pandas.DataFrame
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
 
 
+# A Comprehensive Guide to Understand and Implement Text Classification in Python
+
+-https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/?fbclid=IwAR2jXjHHR1e_bEZArWuYaAJywPzxlkHJg_JJt0-LvYuBU0YFKLZedrm6zes
+
+# NLTK stop words
+-https://pythonspot.com/nltk-stop-words/?fbclid=IwAR2EaAot5bRwbIqkt8swmwJZmpuN3Rs2aHxWkU0XggVQkNGLcPZs-PSVZEQ
 
 
+# How to Clean Text for Machine Learning with Python
+- https://machinelearningmastery.com/clean-text-machine-learning-python/?fbclid=IwAR339TCN8UG0EaSaEYkoedCgYJadXNwvTvmDTRhLp5efsWrc-9b1sDLmiHs
 
-
-
-
-
-
+# Learning to Classify Text
+- https://www.nltk.org/book/ch06.html
 
 
 
