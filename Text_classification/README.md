@@ -99,7 +99,7 @@ print(Sliced_List)
 - https://www.nltk.org/book/ch06.html
 
 
-
-
+# Markdown Cheatsheet
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?fbclid=IwAR03iShNGpHPnzqQtp082b-XDnYru7lL0rwWYMTM4mg3MoS3Aj0SGzF4BYU#youtube-videos
 
 
